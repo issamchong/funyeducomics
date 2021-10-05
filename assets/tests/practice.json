@@ -1,0 +1,41 @@
+{
+  "TimeSlider": 0,
+  "Animation": "easy",
+  "ShowSpot": true,
+  "ImagesPath": "practice/",
+  "Data": [
+    {
+      "question": "question/27.png",
+      "answer": "answer/27.png"
+    },
+    {
+      "question": "question/42.png",
+      "answer": "answer/42.png"
+    },
+    {
+      "question": "question/24.png",
+      "answer": "answer/24.png"
+    },
+    {
+      "question": "question/21.png",
+      "answer": "answer/21.png"
+    },
+    {
+      "question": "question/49.png",
+      "answer": "answer/49.png"
+    },
+    {
+      "question": "question/30.png",
+      "answer": "answer/30.png"
+    },
+    {
+      "question": "question/64.png",
+      "answer": "answer/64.png"
+    },
+    {
+      "question": "question/56.png",
+      "answer": "answer/56.png"
+    }
+
+  ]
+}

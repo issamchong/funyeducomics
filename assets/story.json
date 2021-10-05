@@ -1,0 +1,189 @@
+{
+  "TimeSlider": 500000000000,
+  "Animation": "easy",
+  "ShowSpot": false,
+  "Stories": [
+    {
+      "imagen": "1.png",
+      "story": "There were two Hooks going for a walk, they met a Horse who was going to the Beauty Salon.",
+      "order": "Conversation order: Hook > Horse"
+    },
+    {
+      "imagen": "2.png",
+      "story": "On the way to the Beauty Salon Horse asked a Fork for help, but Fork was trying to make a prank on him. ",
+      "order": "Conversation order: Horse > Fork > Candle > Hook"
+    },
+    {
+      "imagen": "3.png",
+      "story": "Horse came to the Beauty Salon, Blower was right behind him when he and glassess arrived.",
+      "order": "Conversation order: Horse > Hook > Glasses > Blower"
+    },
+    {
+      "imagen": "4.png",
+      "story": "Blower was drinking the coffee Hook brought him, Horse's hair was messed up and fell into his coffee.",
+      "order": "Conversation order: Hook > Blower > Candle > Horse"
+    },
+    {
+      "imagen": "5.png",
+      "story": "Inside, Horse could not enter until he leaves his horn.",
+      "order": "Conversation order: Horse > Cannon > Hook > Horse"
+    },
+    {
+      "imagen": "6.png",
+      "story": "Horse left his horn with Hook, who told Blower that he got the horn.",
+      "order": "Conversation order: Hook >  Blower > Cannon"
+    },
+    {
+      "imagen": "7.png",
+      "story": "Glasses came in after waiting 10 minutes and Cannon welcomed him.",
+      "order": "Conversation order: Hook >  Glasses >  Candle > Cannon"
+    },
+    {
+      "imagen": "8.png",
+      "story": "Inside Horse was afraid of Fork and jumped to the chair.",
+      "order": "Conversation order: Horse >  Glasses > Hook > Fork"
+    },
+    {
+      "imagen": "9.png",
+      "story": "Fork attacked Blower and the coffee fell on the floor.",
+      "order": "Conversation order: Fork >  Blower > Candle > Hook"
+    },
+    {
+      "imagen": "10.png",
+      "story": "Fork was trying to escape and Cannon tried to call the police but he couldn't so Candle pushed his flame higher to light him up.",
+      "order": "Conversation order: Fork > Cannon >  Candle >  Glasses"
+    },
+    {
+      "imagen": "11.png",
+      "story": "Hook came quickly to light Cannon but needed a spark, so he asked Candle for help.",
+      "order": "Conversation order: Hook > Cannon > Hook >  Candle"
+    },
+    {
+      "imagen": "12.png",
+      "story": "Cannon finally fired and threw a watermelon toward Fork to stop him.",
+      "order": "Conversation order: Hook > Fork > Cannon"
+    },
+    {
+      "imagen": "13.png",
+      "story": "Whistle arrived and Candle asked Glasses to tell Whistle what he saw.",
+      "order": "Conversation order: Whistle > Hook > Candle >  Glasses"
+    },
+    {
+      "imagen": "14.png",
+      "story": "Glasses was explaining to Whistle what he saw and cried in fear.",
+      "order": "Conversation order: Whistle >  Glasses > Hook >  Blower"
+    },
+    {
+      "imagen": "15.png",
+      "story": "Hook quickly came to the house to clean the warning sign So everyone knows that Fork is nearby",
+      "order": "Conversation order: Hand Gel > Hook > Hand Gel"
+    },
+    {
+      "imagen": "16.png",
+      "story": "Fork attacked Hand Gel who had a little liquid to clean the sign. when Fork attacked him he got very angry and asked Candle to help him dry it.",
+      "order": "Conversation order: Fork > Hand Gel > Hand Gel > Candle"
+    },
+	 {
+      "imagen": "17.png",
+      "story": "The sign was clean and everyone could see the sign including Donut who freaked out.",
+      "order": "Conversation order: Hook > Hand Gel > Donut > Candle"
+    },
+	{
+      "imagen": "18.png",
+      "story": "It was late because Fork attacked Donut and Cannon tried to fire up to call the police.",
+      "order": "Fork > Donut > Cannon > Hand Gel"
+    },
+	{
+      "imagen": "19.png",
+      "story": "Whistle arrived and asked Hand Gel to wash Horse.",
+      "order": "Conversation order: Whistle > Hand Gel > Hand Gel > Horse"
+    },
+	{
+      "imagen": "20.png",
+      "story": "Hand Gel apologized for not having enough fluid. Horse went to the beach and Donut wanted to go with him.",
+      "order": "Conversation order: Hand Gel > Horse > Donut > Hook"
+    },
+	{
+      "imagen": "21.png",
+      "story": "Whistle came in to keep an eye on Fork.",
+      "order": "Conversation order: Whistle > Fork > Fork"
+    },
+	{
+      "imagen": "22.png",
+      "story": "Fork went to the beach after Horse to get to Donut.",
+      "order": "Conversation order: Fork > Glasses > Hook > Horse"
+    },
+	{
+      "imagen": "23.png",
+      "story": "Fork teased glasses and threw sand at him, Donut got scared because Fork is here for him.",
+      "order": "Conversation order: Hand Gel > Glasses > Donut > Horse"
+    },
+	{
+      "imagen": "24.png",
+      "story": "Fork attacked Hand Gel and Hand Gel's friend asked Blower for help.",
+      "order": "Conversation order: Fork > Hand Gel > Hand Gel > Blower"
+    },
+	{
+      "imagen": "25.png",
+      "story": "Whistle captured Fork. Hook saw it and called Blower who was at the sea sailing away.",
+      "order": "Conversation order: Whistle > Fork > Hook > Blower"
+    },
+	{
+      "imagen": "26.png",
+      "story": "Cannon controlled Fork and Whistle arrived on his horse.",
+      "order": "Conversation order: Horse > Whistle > Cannon > Fork"
+    },
+	{
+      "imagen": "27.png",
+      "story": "Whistle came and talked to Blower asking him to calm Cannon down.",
+      "order": "Conversation order: Whistle > Blower > Cannon > Fork"
+    },
+	{
+      "imagen": "28.png",
+      "story": "Cannon's friend arrived to take his turn to keep an eye on Fork.",
+      "order": "Conversation order: Cannon's friend > Cannon > Cannon's friend > Fork"
+    },
+	{
+      "imagen": "29.png",
+      "story": "Cannon came to thank Whistle who asked Horse to calm Cannon.",
+      "order": "Conversation order: Cannon > Whistle > Horse > Hand Gel"
+    },
+	{
+      "imagen": "30.png",
+      "story": "Blower went to greet his friend and shook hands with him but the noise called Whistle attention.",
+      "order": "Conversation order: Whistle > Blower"
+    },
+	{
+      "imagen": "31.png",
+      "story": "At this time, Glasses received a gift for his support in capturing Fork.",
+      "order": "Conversation order: Cannon > Glasses > Glasses's sister > Horse"
+    },
+	{
+      "imagen": "32.png",
+      "story": "Glasses went to ask for the gift.",
+      "order": "Conversation order : Cannon > Glasses > Glasses's sister > Horse"
+    },
+	{
+      "imagen": "33.png",
+      "story": "Horse finally had the time to invite friends to his birthday.",
+      "order": "Conversation order: Horse > Hook > Glasses"
+    },
+	{
+      "imagen": "34.png",
+      "story": "While Hand Gel was cleaning Cannon for the birthday, Blower needed new glasses.",
+      "order": "Conversation order: Blower > Glasses > Cannon"
+    },
+	{
+      "imagen": "35.png",
+      "story": "Whistle found out about the birthday when Candle came to show Glasses how to get there because he doesn’t see at night.",
+      "order": "Conversation order: Whistles > Candle > Glasses"
+    },
+	{
+      "imagen": "36.png",
+      "story": "Finally the Horses arrived and everyone was very happy to receive them.",
+      "order": "Conversation order: Horses >  Candle > Cannon"
+    }
+	
+	
+  ]
+}

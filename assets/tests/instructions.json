@@ -1,0 +1,55 @@
+{
+  "TimeSlider": 100000,
+  "Animation": "easy",
+  "ShowSpot": true,
+  "ImagesPath": "instructions/",
+  "Data": [
+    {
+      "question": "characters/0.png"
+      
+    },
+	 {
+      "question": "characters/1.png"
+      
+    },
+	 {
+      "question": "characters/2.png"
+      
+    },
+	 {
+      "question": "characters/3.png"
+      
+    },
+	 {
+      "question": "characters/4.png"
+      
+    },
+	 {
+      "question": "characters/5.png"
+      
+    },
+	 {
+      "question": "characters/6.png"
+      
+    },
+	 {
+      "question": "characters/7.png"
+      
+    },
+	 {
+      "question": "characters/8.png"
+      
+    },
+	 {
+      "question": "characters/9.png"
+      
+    },
+	 {
+      "question": "characters/10.png"
+      
+    }
+	
+
+
+  ]
+}

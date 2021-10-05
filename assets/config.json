@@ -1,0 +1,55 @@
+{
+  "Title": "The Table Friends",
+  "Menu": [
+    {
+      "title": "Home",
+      "icon": "home",
+      "to": "/",
+      "hidden": true
+    },
+
+    {
+      "title": "Story",
+      "icon": "auto_stories",
+      "to": "/story",
+      "color": "#FFA62B",
+      "description": "Your child should memorize the story totally before the tests ",
+      "hidden": false
+    }
+  ],
+  "Tests": [
+
+    {
+      "title": "Test #1",
+      "icon": "receipt_long",
+      "fileName": "test1",
+      "color": "#5CC6EB",
+      "description": "Ask your child what characters should be there before pressing on the image",
+      "hidden": false
+    },
+    {
+      "title": "Test #2",
+      "icon": "receipt_long",
+      "fileName": "test2",
+      "color": "#5CC6EB",
+      "description": "Ask your child what characters should be there before pressing on the image",
+      "hidden": false
+    },
+	{
+      "title": "Instructions",
+      "icon": "receipt_long",
+      "fileName": "instructions",
+      "color": "#5CC6EB",
+      "description": "Check what every character represents",
+      "hidden": false
+    },
+	{
+      "title": "Practice",
+      "icon": "receipt_long",
+      "fileName": "practice",
+      "color": "#5CC6EB",
+      "description": "This is how the story is used to solve math problems",
+      "hidden": false
+    }
+  ]
+}

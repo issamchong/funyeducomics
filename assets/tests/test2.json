@@ -1,0 +1,40 @@
+{
+  "TimeSlider": 0,
+  "Animation": "easy",
+  "ShowSpot": true,
+  "ImagesPath": "test2/",
+  "Data": [
+    {
+      "question": "question/1.png",
+      "answer": "answer/1.png"
+    },
+    {
+      "question": "question/2.png",
+      "answer": "answer/2.png"
+    },
+    {
+      "question": "question/3.png",
+      "answer": "answer/3.png"
+    },
+    {
+      "question": "question/4.png",
+      "answer": "answer/4.png"
+    },
+    {
+      "question": "question/5.png",
+      "answer": "answer/5.png"
+    },
+    {
+      "question": "question/6.png",
+      "answer": "answer/6.png"
+    },
+    {
+      "question": "question/7.png",
+      "answer": "answer/7.png"
+    },
+    {
+      "question": "question/8.png",
+      "answer": "answer/8.png"
+    }
+  ]
+}
